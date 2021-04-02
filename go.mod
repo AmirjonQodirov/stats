@@ -1,5 +1,5 @@
-module github.com/AmirjonQodirov/stats
+module github.com/AmirjonQodirov/stats/v2
 
 go 1.16
 
-require github.com/AmirjonQodirov/bank v1.0.0 // indirect
+require github.com/AmirjonQodirov/bank/v2 v2.0.0
